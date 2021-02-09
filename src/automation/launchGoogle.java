@@ -12,5 +12,8 @@ public class launchGoogle {
 		WebDriver driver=new ChromeDriver();		
 
 	}
+	public void print() {
+		System.out.println("Wlcome to goolge");
+	}
 
 }
