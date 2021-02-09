@@ -14,6 +14,7 @@ public class launchGoogle {
 	}
 	public void print() {
 		System.out.println("Wlcome to goolge");
+		System.out.println("Hello");
 	}
 
 }
